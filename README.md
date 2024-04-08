@@ -1,6 +1,6 @@
 # **Project 5 - Rat Maze**
-WASD to Move
-Mouse to look around
+* WASD to Move
+* Mouse to look around
 Click to shoot
 Sprint to run
 R to reset position if stuck
